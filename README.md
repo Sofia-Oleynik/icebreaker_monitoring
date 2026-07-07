@@ -138,12 +138,10 @@ The model achieves the following performance metrics on the validation set:
 The model was trained for 100 epochs with early stopping (patience=50). The training and validation curves show stable convergence.
 
 <img width="1041" height="804" alt="Training and validation loss curves" src="https://github.com/user-attachments/assets/b58fd5bc-3003-4d0a-ae04-a30333867e38" />
-*Figure 1: Training and validation loss over 100 epochs.*
 
 ### Detection Results
 
 <img width="948" height="644" alt="Detection results with classified objects" src="https://github.com/user-attachments/assets/a111cc98-3e57-420b-9ae6-fe6476e3e06c" />
-*Figure 2: Detection results showing ships (red), icebergs (blue), and unidentified objects (purple) with confidence scores.*
 
 ## Output
 
